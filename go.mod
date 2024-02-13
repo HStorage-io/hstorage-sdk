@@ -1,4 +1,4 @@
-module github.com/hstorage_io/hstorage-sdk
+module github.com/hstorage-io/hstorage-sdk
 
 go 1.21
 
